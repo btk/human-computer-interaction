@@ -21,7 +21,7 @@ Usability goals;
   Bathroom faucets, hot/cold, pressure
   Start button being lost in a lot of buttons.
 
-- Conceptual models
+- Conceptual models (Mental Model)
   People have mental models of how things work
   Valve model
 
